@@ -11,3 +11,5 @@ function traverseObject(obj){
         console.log(key +":"+obj[key])
     }
 }
+
+traverseObject(person);
